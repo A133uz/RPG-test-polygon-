@@ -1,0 +1,4 @@
+repository "Game4(RPG) 19.30@al33uz@cloud"
+  path "/"
+    br "/main"
+    co "/main"

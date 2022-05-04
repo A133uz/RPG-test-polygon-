@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d56c21d3e5fe76458471621df33beec, type: 3}
+  m_Name: LongSword
+  m_EditorClassIdentifier: 
+  type: 0
+  id: 8
+  mySpr: {fileID: -3459558614108198297, guid: cd4519658435d78479834a63f47b5ca9, type: 3}
+  Name: "\u0414\u043B\u0438\u043D\u043D\u044B\u0439 \u0416\u0435\u043B\u0435\u0437\u043D\u044B\u0439
+    \u041C\u0435\u0447"
+  desc: 
+  isUseful: 0
+  isArrow: 0
+  ArrowID: 0
+  dmg: 0
+  pulse: 0
+  speed: 1.5
+  weight: 0
+  length: 1.7
+  offset: 0.7
+  spriteForBowStage: {fileID: 0}
+  myArrow: {fileID: 0}
+  protect: 0

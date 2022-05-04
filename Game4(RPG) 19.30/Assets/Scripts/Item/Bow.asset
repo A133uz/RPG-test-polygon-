@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d56c21d3e5fe76458471621df33beec, type: 3}
+  m_Name: Bow
+  m_EditorClassIdentifier: 
+  type: 1
+  id: 9
+  mySpr: {fileID: 21300000, guid: 77276d9a0a01d16419daefceeee1db98, type: 3}
+  Name: Bow
+  desc: 
+  isUseful: 0
+  isArrow: 0
+  ArrowID: 10
+  dmg: 0
+  pulse: 0
+  speed: 2
+  weight: 5
+  length: 1
+  offset: 1
+  spriteForBowStage: {fileID: 21300000, guid: ff50f5b441f715f40806361bc9b6e1d5, type: 3}
+  myArrow: {fileID: 5656792932633456514, guid: 7e2910273c228984d8bd23a6980199c3, type: 3}
+  protect: 0
